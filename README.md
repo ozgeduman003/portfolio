@@ -1,115 +1,94 @@
-# Ozge Duman – Data Scientist | Causal Inference | Experimentation | ML
+# Özge Duman, PhD  
+**Data Scientist | Interpretable Machine Learning | Causal Reasoning**
 
-Hi, I am Özge, a data scientist with a PhD in Engineering and a strong background in  
-causal inference, experimentation, and large-scale scientific modeling.
+I am a data scientist with a PhD background in modeling complex systems, specializing in interpretable machine learning, causal inference, and data-driven decision support.
 
-I spent my PhD analyzing complex biological systems (GPCRs and allosteric networks) using  
-machine learning, transfer entropy, and advanced statistical modeling. My work has led to  
-peer-reviewed publications, a NATO-funded project on transfer entropy, and presentations at EMBO conferences.
-
-I am now focusing on applying the same rigor and experimentation mindset to product and business problems:
-A/B testing, causal impact, personalization, and data-driven decision making.
+My strength lies in translating complex, high-dimensional data into **reliable, explainable, and actionable insights**. I focus on going beyond correlation to understand **drivers, dependencies, and directionality** in real-world data — skills directly relevant to business, policy, and applied research settings.
 
 ---
 
-## 🧪 Highlighted Projects
+## 🔹 What I Do
 
-### 1. Localization Causal Modeling & Experimentation
-**Tech:** Python, pandas, scikit-learn, statsmodels, causal inference methods (ATE / CATE, uplift curves),  
-A/B test evaluation, TE-inspired analysis
-
-- Simulates a multilingual product environment with user engagement and retention as outcomes.
-- Implements randomized experiments and observational causal inference to estimate the impact of different
-  “localization strategies” on user behavior.
-- Demonstrates how to:
-  - Frame business questions as causal problems.
-  - Design and evaluate experiments.
-  - Build model-based estimators to guide product and content decisions.
-- Includes clear documentation, visualizations, and interpretation of treatment effects and uncertainty.
-
-> **Role:** End-to-end design (data generation, modeling, evaluation, interpretation).  
-> **Focus:** Experimentation, causal inference, decision support.
+- Build end-to-end machine learning pipelines
+- Perform exploratory data analysis (EDA) and feature assessment
+- Compare, validate, and interpret predictive models
+- Apply causal and directional reasoning to observational data
+- Communicate analytical results clearly to non-technical stakeholders
 
 ---
 
-### 2. Transfer Entropy Network Analysis in Protein Systems (NATO Project – Results Only)
-**Tech:** Transfer Entropy, information theory, network analysis, Python (conceptually), scientific workflows
+## 🔹 Portfolio Projects
 
-- Results-only reconstruction of my NATO-funded work applying **Transfer Entropy** to study directed
-  information flow in protein systems.
-- Contains:
-  - Methodology summary (how TE is computed and interpreted).
-  - Anonymized figures of information-flow networks.
-  - Explanation of how source/target residues and “allosteric hotspots” are identified.
-- Original code and raw data are not shared due to IP restrictions, but the repository documents
-  the full analysis pipeline and the design of TE-based causal metrics.
+### 1️⃣ End-to-End Machine Learning Project
 
-> **Role:** Lead analyst and co-developer of TE workflow; first-author on peer-reviewed publication.  
-> **Focus:** Causal information flow, robust methodology, communicating complex results to scientific stakeholders.
+A complete supervised learning workflow using structured tabular data, covering data preprocessing, exploratory analysis, feature engineering, model comparison, and evaluation.
+
+This project reflects common industry problems such as churn prediction, risk scoring, and demand forecasting.
+
+🔗 **Final Project Report**  
+https://bu-ie-582.github.io/fall20-ozgeduman003/files/ReportofProjectbyChE-origin.html
 
 ---
 
-### 3. GPCR Dynamic Modeling & Ensemble Analysis (PhD Research – Synthetic/Public Data)
-**Tech:** Python/Matlab, PCA, clustering, network analysis, MD/ENM-style features, scientific plotting
+### 2️⃣ Exploratory Modeling & Validation Study
 
-- Showcases the data and modeling concepts used in my PhD on **GPCR activation and allosteric signaling**,
-  reconstructed on synthetic or public structural data.
-- Includes:
-  - Example of feature engineering from 3D structures and trajectories.
-  - Normal mode / correlation-like analysis.
-  - Clustering of conformational states and visualization of transition pathways.
-- Demonstrates how to handle high-dimensional, noisy scientific data and extract interpretable signals
-  that guide hypotheses and decisions.
+Focused analysis on early-stage modeling decisions, feature behavior, and baseline model performance. Emphasizes analytical reasoning and validation strategies before production-level modeling.
 
-> **Role:** Full pipeline design and implementation; presented results at EMBO conferences. The project was funded by the Turkish Health Institutes (TUSEB) and the Scientific and Technological Research Council of Türkiye (TÜBİTAK).
-> **Focus:** Complex modeling, experimental design, comprehensive analysis of high-dimensional data.
+🔗 **Exploratory Analysis Report**  
+https://bu-ie-582.github.io/fall20-ozgeduman003/files/HW3_ozgeduman.html
 
 ---
 
-### 4. Recommender Systems & Personalization (Rebuild of Course Project)
-**Tech:** Python, R,  pandas, NumPy, LightFM / Surprise / scikit-learn, ranking metrics (Precision@K, Recall@K, NDCG)
+### 3️⃣ Interpretable Machine Learning
 
-- Modern, clean re-implementation of my earlier recommender system project.
-- Builds multiple recommendation strategies:
-  - Baseline popularity and similarity models.
-  - Matrix factorization–based recommender.
-  - Hybrid strategy with user and item features.
-- Provides robust evaluation with ranking metrics and clear discussion of trade-offs between models
-  (accuracy vs. coverage, cold start, etc.).
+Applied analyses centered on understanding *why* models make predictions, not just how accurate they are.
 
-> **Role:** End-to-end design and implementation.  
-> **Focus:** Personalization, ranking, offline evaluation, practical model comparison.
+Key themes:
+- Feature importance and stability
+- Model diagnostics
+- Trade-offs between accuracy and explainability
+- Trustworthy and transparent modeling
 
 ---
 
-## 🧬 Research & Publications (Selection)
+### 4️⃣ Causal Inference & Directionality
 
-- **PhD Thesis (Engineering):** DYNAMICS, ALLOSTERY, AND SIGNALLING BIAS IN G PROTEIN–COUPLED RECEPTORS
-- **Transfer Entropy in Protein Dynamics (NATO-funded):**
-  - Developed TE-based metrics to quantify directed information flow in biomolecular systems.
-  - Peer-reviewed publication and international conference presentations (including EMBO).
-- Multiple projects integrating:
-  - Statistical modeling
-  - Network analysis
-  - High-dimensional time-series data
-  - Experimental / simulation-based validation
+Exploratory work on causal reasoning in data science, inspired by my research background in directional information flow in complex systems.
 
----
+Topics include:
+- Correlation vs causation
+- Confounder bias
+- Directionality in observational data
+- Time-lagged effects
 
-## 🔧 Technical Skills
-
-- **Programming & Data:** Python (pandas, NumPy, scikit-learn, matplotlib), SQL, Jupyter, R
-- **Experimentation & Causal Inference:** A/B testing design and evaluation, TE-based causal analysis,
-  treatment effect estimation
-- **Modeling & ML:** Supervised/unsupervised learning, matrix factorization, clustering, dimensionality reduction
-- **Domains:** Localization / user experience, scientific modeling (GPCRs, protein dynamics), recommender systems
+These concepts are critical for decision-making when randomized experiments are not feasible.
 
 ---
 
-## 📫 Contact
+## 🔹 Background
 
-- GitHub: `github.com/ozgeduman003`
-- Email: `ozgeduman34@gmail.com`
-- Location: The Netherlands
+I hold a PhD in Chemical Engineering with extensive experience in statistical modeling, machine learning, and large-scale data analysis. My academic research involved working with noisy, high-dimensional datasets and developing interpretable inference methods — challenges that closely mirror real-world business data problems.
 
-I am especially interested in roles where experimentation, causal thinking, and rigorous modeling are central to product and business decisions.
+I have worked in interdisciplinary and international teams and enjoy translating complex analytical methods into practical insights.
+
+---
+
+## 🔹 Tools & Skills
+
+- **Programming:** Python (pandas, numpy, scikit-learn)
+- **Machine Learning:** Supervised learning, model evaluation, validation
+- **Analytics:** Exploratory data analysis, feature engineering
+- **Interpretability:** Feature importance, model diagnostics
+- **Practices:** Reproducible research, Git, GitHub
+
+---
+
+## 🔹 Contact & Links
+
+📍 Based in the Netherlands  
+📧 Email: ozgeduman34@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ozge-duman-phd  
+
+---
+
+*This portfolio is continuously evolving as I expand my applied data science projects.*
