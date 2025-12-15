@@ -51,17 +51,34 @@ Key themes:
 
 ---
 
-### 4️⃣ Causal Inference & Directionality
+### 4️⃣ Causal Inference & Directionality  
+**Case Study: Directional Coupling in Complex Systems (NATO Science for Peace Project)**
 
-Exploratory work on causal reasoning in data science, inspired by my research background in directional information flow in complex systems.
+In addition to exploratory causal reasoning exercises, I have applied directional inference methods in a large-scale, externally validated research project conducted within a multi-year NATO Science for Peace and Security programme.
 
-Topics include:
-- Correlation vs causation
-- Confounder bias
-- Directionality in observational data
-- Time-lagged effects
+In this work, we analyzed complex interaction networks to infer **directional dependencies and long-range influence pathways** in ABC transporter systems. Rather than relying on correlation alone, we employed **direction-sensitive information flow measures** to identify which system components act as *drivers* versus *responders*.
 
-These concepts are critical for decision-making when randomized experiments are not feasible.
+Key aspects relevant to applied data science include:
+
+- Inference of **directionality beyond correlation**
+- Analysis of **high-dimensional interaction matrices**
+- Identification of **key drivers and bottlenecks** in networked systems
+- Validation of inferred relationships using **independent experimental evidence**
+- Decision-oriented interpretation of complex dependency structures
+
+The figure below illustrates directional coupling patterns across system components, highlighting asymmetric influence relationships that cannot be captured by standard correlation analysis.
+
+<img width="1042" height="539" alt="image" src="https://github.com/user-attachments/assets/03a60b57-911c-48f7-915c-fba519617148" />
+
+
+This type of analysis directly parallels real-world business problems where:
+- Interactions are complex and interdependent
+- Controlled experiments are limited or impossible
+- Understanding *drivers* of outcomes matters more than raw association
+
+🔗 **Publication (first-author contribution)**  
+https://onlinelibrary.wiley.com/doi/full/10.1002/pro.70039
+
 
 ---
 
