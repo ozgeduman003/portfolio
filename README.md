@@ -92,11 +92,41 @@ I have worked in interdisciplinary and international teams and enjoy translating
 
 ## 🔹 Tools & Skills
 
-- **Programming:** Python (pandas, numpy, scikit-learn)
-- **Machine Learning:** Supervised learning, model evaluation, validation
-- **Analytics:** Exploratory data analysis, feature engineering
-- **Interpretability:** Feature importance, model diagnostics
-- **Practices:** Reproducible research, Git, GitHub
+### Statistical & Analytical Methods
+- Hypothesis testing and statistical inference  
+- Experimental design and A/B testing  
+- Regression and classification models  
+- Model validation and performance assessment  
+
+### Programming & Data Engineering
+- **Python:** NumPy, Pandas, SciPy, scikit-learn  
+- **R**, **SQL**, **Excel**  
+- Experience with high-performance computing (HPC) environments  
+- GPU-accelerated computing (CUDA) and C++ (research-oriented applications)
+
+### Machine Learning & Automation
+- Predictive modeling and statistical learning  
+- Feature engineering and preprocessing  
+- Model selection, cross-validation, and evaluation  
+- Automated and reproducible analytical workflows  
+
+### Analytics & Visualization
+- Exploratory data analysis (EDA)  
+- Data pipelines and structured data processing  
+- Visualization with Matplotlib, Seaborn  
+- Dashboarding and reporting with Tableau and Power BI  
+
+### Computing & Collaboration
+- Linux and HPC environments  
+- Version control with Git and GitHub  
+- Reproducible research practices  
+- Cross-functional and interdisciplinary collaboration  
+
+### Languages
+- **English:** Fluent  
+- **German:** Upper Intermediate  
+- **Turkish:** Native  
+
 
 ---
 
